@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор 3000",
+  "description": "Супер-калькулятор с математическими и инженерными вычислениями, историей операций, ячейками памяти и тактильным откликом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
